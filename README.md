@@ -1,7 +1,10 @@
 ETHICAL-FREEDOM LICENSE
+
 Version 1, October 2023
 
 Copyright (C) 2023 Zentyk (zentyk@protonmail.com)
+            
+            ETHICAL-FREEDOM LICENSE 
     
     TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION 
 
