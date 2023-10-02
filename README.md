@@ -1,4 +1,5 @@
-```Version 1.5, October 2023
+``` ETHICAL AND FREEDOM PUBLIC LICENSE
+Version 1.5, October 2023
 
 Copyright (C) 2023 Zentyk (zentyk@protonmail.com)
 
