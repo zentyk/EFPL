@@ -49,8 +49,8 @@ Copyright (C) 2023 Zentyk (zentyk@protonmail.com)
    k. Fails to ensure digital accessibility, making the software usable by all,
       including individuals with disabilities.
 
-   l. Discriminates or promotes discrimination against any group or individuals based on race, gender,
-      religion, or any other characteristic, ensuring equal and fair treatment.
+   l. Discriminates or promotes discrimination against any group or individuals
+      based on race, gender, religion, or any other characteristic, ensuring equal and fair treatment.
 
    m. Neglects the mental health of users, avoiding the promotion of digital
       addictions or any content that may negatively impact mental well-being.
@@ -60,7 +60,9 @@ Copyright (C) 2023 Zentyk (zentyk@protonmail.com)
 
    o. Promote or use to abuse of authority at any level or promotes such abuse.
 
-   p. Engages in piracy, unauthorized copying, distribution, or any activity that infringes upon the intellectual property rights, copyrights, patents, trademarks, or any other legal protections of others.
+   p. Engages in piracy, unauthorized copying, distribution, or any activity
+      that infringes upon the intellectual property rights, copyrights,
+      patents, trademarks, or any other legal protections of others.
     
     2. Any use related to the restrictions in section 1 must have comic, satirical
      purposes, or include a clear legend specifying that the work does not promote
