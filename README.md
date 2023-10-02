@@ -1,6 +1,6 @@
 ETHICAL-FREEDOM LICENSE
 
-Version 1, October 2023
+Version 1.1, October 2023
 
 Copyright (C) 2023 Zentyk (zentyk@protonmail.com)
             
@@ -38,6 +38,28 @@ Copyright (C) 2023 Zentyk (zentyk@protonmail.com)
      h. Abuses Artificial Intelligence, Quantum Computing, or any other existing
         or future technology.
 
+     i. Infringes upon the privacy rights of individuals or violates ethical data
+        management principles. Users must handle personal data in accordance
+        with applicable data protection laws and respect individuals' privacy rights.
+
+    j. Neglects environmental sustainability by promoting energy-efficient
+       coding practices, reducing digital waste, and considering the environmental
+       impact of software development.
+
+    k. Fails to ensure digital accessibility, making the software usable by all,
+       including individuals with disabilities.
+
+    l. Discriminates or promote discrimination against any group or individuals based on race, gender,
+       religion, or any other characteristic, ensuring equal and fair treatment.
+
+    m. Neglects the mental health of users, avoiding the promotion of digital
+       addictions or any content that may negatively impact mental well-being.
+
+    n. Violates any applicable laws and regulations, especially in areas such as
+       health, safety, and the environment.
+
+    o. Promote or use to abuse of authority at any level or promotes such abuse.
+    
     2. Any use related to the restrictions in section 1 must have comic, satirical
      purposes, or include a clear legend specifying that the work does not promote
      any act of violence or risk and is purely imaginative, fictitious, or a recreation
