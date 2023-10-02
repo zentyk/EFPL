@@ -1,4 +1,4 @@
-ETHICAL-FREEDOM LICENSE
+```ETHICAL-FREEDOM LICENSE
 
 Version 1.2, October 2023
 
@@ -72,3 +72,4 @@ Copyright (C) 2023 Zentyk (zentyk@protonmail.com)
     3. This license cannot be modified to have adverse effects other than those established herein.
 
     4. You just DO WHAT THE FUCK YOU WANT TO, but be responsible.
+```
