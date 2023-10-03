@@ -1,4 +1,5 @@
-``` ETHICAL AND FREEDOM PUBLIC LICENSE
+```ETHICAL AND FREEDOM PUBLIC LICENSE
+
 Version 1.5, October 2023
 
 Copyright (C) 2023 Zentyk (zentyk@protonmail.com)
@@ -60,14 +61,6 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
 
    This license cannot be modified to have adverse effects other than those established herein.
 
-4. Legal and Responsible Use:
-
-   Users may specify their intended use case and customize this section accordingly:
-
-   You are expressly prohibited from using this software or any derivative work for any purpose
-   that promotes or engages in illegal activities, including but not limited to activities
-   that violate local, national, or international laws and regulations.
-
-5. Closing Remarks:
+4. Closing Remarks:
 
  You just DO WHAT THE FUCK YOU WANT TO, but be responsible.```
